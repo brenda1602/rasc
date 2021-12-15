@@ -13,7 +13,7 @@ subtitle: Ferramenta para criar e compartilhar containers
 {%- endcapture -%}
 {%- assign tags_list = site_tags | split:',' | sort -%}
 
-<center><img src="{{ 'assets/img/docker/homepage-docker-logo.png' | relative_url }}" alt="Docker logo" width="380"/></center>
+<center><img src="{{ 'assets/img/page-docker/homepage-docker-logo.png' | relative_url }}" alt="Docker logo" width="380"/></center>
 
 <div class="before-content">
   <center>
@@ -36,8 +36,8 @@ Docker é uma plataforma *open source* para desenvolver, compartilhar e rodar ap
 <table class="table-borderless highlight">
   <thead>
     <tr>
-      <th><center><img src="{{ 'assets/img/docker/container-vm-whatcontainer_2.png' | relative_url }}" alt="Semelhantes" width="600" /></center></th>
-      <th><center><img src="{{ 'assets/img/docker/docker-containerized-appliction-blue-border_2.png' | relative_url }}" alt="Semelhantes" width="600"/></center></th>
+      <th><center><img src="{{ 'assets/img/page-docker/container-vm-whatcontainer_2.png' | relative_url }}" alt="Semelhantes" width="600" /></center></th>
+      <th><center><img src="{{ 'assets/img/page-docker/docker-containerized-appliction-blue-border_2.png' | relative_url }}" alt="Semelhantes" width="600"/></center></th>
     </tr>
   </thead>
 </table>
