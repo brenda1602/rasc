@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post-page
 title: Docker
 subtitle: Ferramenta para criar e compartilhar containers
 ---
