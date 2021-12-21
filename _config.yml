@@ -60,7 +60,9 @@ navbar-links:
     - senha do ubuntu: "2021-08-05-senha-do-ubuntu"
     - pycontrol: "2021-09-23-py-control-bbot"
     - behavior trees: "2021-10-11-hsfm-behavior-trees"
-
+    - O que é docker ?: "2021-12-13-docker-first-steeps"
+    - docker:comandos básicos: "2021-12-13-docker-instructions"
+    - ROS+Docker: "2021-12-13-docker-ROS"
     
   About Us: "aboutus"
 
